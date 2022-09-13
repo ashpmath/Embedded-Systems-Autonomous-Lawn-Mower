@@ -28,11 +28,10 @@ Social and Cultural Factors: Our design does not culturally enhance a specific g
 Environmental Factors: Our device doesn’t exhibit any environmental concerns or cause hazardous effects to humans or nature. Ashley used recycled cardboard boxes to create a chassis for her mower and Erics used an RC car he previously owned.
 Economic Factors: Autonomous vehicles are expensive due to the engineering and electronics costs. However, the budget needed for our project is relatively affordable for both students so while selecting components students found the cheapest items available on the market during Covid-19 pandemic. 
 
-Pseudocode:
-  Summary of code:
-  Get GPS coordinates
-  Ask user for number of lawnmower passes
-  Turn 180 degrees when destination is reached
-  Go back to the original location
-  Stop vehicle if an object is detected 
-  Keep repeating these passes until the number of passes entered by the user is reached, then display to LCD that the mowing is complete
+Pseudocode (Summary of code):
+1.) Get GPS coordinates
+2.) Ask user for number of lawnmower passes
+3.) Turn 180 degrees when destination is reached
+4.) Go back to the original location
+5.) Stop vehicle if an object is detected 
+6.)Keep repeating these passes until the number of passes entered by the user is reached, then display to LCD that the mowing is complete
