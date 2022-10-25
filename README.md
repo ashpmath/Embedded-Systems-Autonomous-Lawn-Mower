@@ -9,6 +9,10 @@ Final Project for Embedded Systems
 
 2. Design Objectives: The design objective of the project is to provide lawn mower user’s with a robust autonomous system which mows grass in a systematic manner. The  prototype mower built uses precise coordinates to pinpoint where the robot must navigate to. 
 
+System Overview:
+
+![SystemOverview](https://user-images.githubusercontent.com/73625048/197659556-8ec9bf33-d089-4148-9277-2cf4aad5e0ce.png)
+
 3. Major System Requirements and Constraints:
 
     Major System Requirements:
@@ -17,8 +21,6 @@ Final Project for Embedded Systems
     Lawn Mower has mechanism for simulating a lawn mower blade (DC Motor with a fan is used). 
     Ultrasonic Sensor must be able to detect the presence of an object so when the mower runs autonomously it doesn’t crash.
     The proximity sensor should also retrieve the distance per path.
-    
-    ![SystemOverview](https://user-images.githubusercontent.com/73625048/197659556-8ec9bf33-d089-4148-9277-2cf4aad5e0ce.png)
 
     Major System Constraints:
     Due to time constraints the lawn mower only maneuvers forward and backward a number of times/passes (depends on user input).
