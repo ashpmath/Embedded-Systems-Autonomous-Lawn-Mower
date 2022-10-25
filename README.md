@@ -2,6 +2,7 @@
 Final Project for Embedded Systems
  
 ![autonomous lawn mower](https://user-images.githubusercontent.com/73625048/197658916-ce5dfcb6-56dd-40a4-b20d-a9bb474c7463.png)
+![chassis](https://user-images.githubusercontent.com/73625048/197661920-a461675d-5ab6-42c9-a8cf-a4b6487b862a.png)
 
 1. Problem Statement: Often autonomous mowers on the market today leave users with unappealing, uneven grass and dry patches in their lawn. These autonomous mowers neglect to use a systematic approach to mow grass. Currently they use randomized movement to cut the lawn which ends up ruining grass rather than helping. The design  implemented uses a GPS module to receive the mower's coordinates and detect the area at which the user would like to mow. Then once acquired, the mower moves in a methodical pattern and orderly fashion to ensure the robot won’t miss sections of your yard. Depending on the users request, the mower allows the user to input the number of passes and windrows. To prevent injury our lawn mower uses a fan provided in our lab kit to simulate the blade of a lawn mower. 
 
