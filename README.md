@@ -16,6 +16,8 @@ Final Project for Embedded Systems
     In our case, a DC Motor with a fan is used. 
     Ultrasonic Sensor must be able to detect the presence of an object so when the mower runs autonomously it doesn’t crash.
     The proximity sensor should also retrieve the distance per path.
+    
+    ![SystemOverview](https://user-images.githubusercontent.com/73625048/197659556-8ec9bf33-d089-4148-9277-2cf4aad5e0ce.png)
 
     Major System Constraints:
     Due to time constraints the lawn mower only maneuvers forward and backward a number of times/passes (depends on user input).
