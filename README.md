@@ -39,3 +39,8 @@ Pseudocode (Summary of code):
 4.) Go back to the original location
 5.) Stop vehicle if an object is detected 
 6.)Keep repeating these passes until the number of passes entered by the user is reached, then display to LCD that the mowing is complete
+
+Circuit Schematic: 
+
+![FinalProjectSchematicES](https://user-images.githubusercontent.com/73625048/197660511-aa49d7d8-c161-4a9c-aacf-19d01147bf95.png)
+
